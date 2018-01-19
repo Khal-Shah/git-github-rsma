@@ -18,7 +18,7 @@ After creating local repo, link it (to online repo on github) so you can pull al
 
 ex: 'git pull origin master' (will fetch/update files from remote to local repo)
 
-•Push your own changes into central repo with 'git push'
+•Push your own changes into central repo with 'git push' (read below)
 
 
 Making Changes:
@@ -37,3 +37,5 @@ git commit: after adding to index, lets you make changes to local repo
 Ex: git commit -m "description"
 
 git commit -a -m "message" to commit all the files
+
+finally use git push to push it to central repo
