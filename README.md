@@ -13,5 +13,6 @@ After creating local repo, link it (to online repo on github) so you can pull al
 •Use command 'git remote add origin "link_address"' to add remote repo...the link can be found on the github repo ("Clone or Download" buttoon).
 
 •Pull files with command 'git pull'
+ex: 'git pull origin master'
 
 •Push your own changes into central repo with 'git push'
