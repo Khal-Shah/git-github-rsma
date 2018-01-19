@@ -4,6 +4,8 @@ date: 01-18-2018
 
 First create remote repo (central repository) on github (soen341, already done)
 
+How to sync repos:
+
 Create a folder on your computer where you wanna keep the files.
 
 initialize local repository (your computer) with: terminal ==> 'cd path_name_of_folder git init'
