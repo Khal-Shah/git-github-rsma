@@ -30,6 +30,8 @@ git status: tells you which files are added to index and are ready to commit
 
 git add: lets you add files to your index
 
+git add -A (to add all new files to index)
+
 git commit: after adding to index, lets you make changes to local repo
 
 Ex: git commit -m "description"
