@@ -2,7 +2,7 @@
 testing
 date: 01-18-2018
 
-First create remote repo on github (soen341, already done)
+First create remote repo (central repository) on github (soen341, already done)
 
 Create a folder on your computer where you wanna keep the files.
 
