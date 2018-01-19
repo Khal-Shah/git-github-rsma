@@ -19,3 +19,17 @@ After creating local repo, link it (to online repo on github) so you can pull al
 ex: 'git pull origin master' (will fetch/update files from remote to local repo)
 
 •Push your own changes into central repo with 'git push'
+
+
+Making Changes:
+
+There is an intermediary layer between your workspace and local repo
+To commit changes into local repo, those files must be added to index first.
+
+git status: tells you which files are added to index and are ready to commit
+
+git add: lets you add files to your index
+
+git commit: after adding to index, lets you make changes to local repo
+
+Ex: git commit -m "description"
