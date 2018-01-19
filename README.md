@@ -10,7 +10,7 @@ initialize local repository (your computer) with: terminal ==> 'cd path_name_of_
 
 After creating local repo, link it so you can pull all the files/changes from remote repo:
 
-•Use 'git add origin <link>' to add remote repo
+•Use 'git add origin < link >' to add remote repo
 
 •Pull files with 'git pull'
 
