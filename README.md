@@ -35,3 +35,5 @@ git add -A (to add all new files to index)
 git commit: after adding to index, lets you make changes to local repo
 
 Ex: git commit -m "description"
+
+git commit -a -m "message" to commit all the files
