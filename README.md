@@ -39,3 +39,10 @@ Ex: git commit -m "description"
 git commit -a -m "message" to commit all the files
 
 finally use git push to push it to central repo
+
+Branching:
+
+to create new branch: git branch branchName
+
+to move to another branch: git checkout nameOfBranchYouWannaMoveTo
+(checks out from the branch you were on and moves to another branch).
