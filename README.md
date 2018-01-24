@@ -37,6 +37,7 @@ git commit: after adding to index, lets you make changes to local repo
 Ex: git commit -m "description"
 
 git commit -a -m "message" to commit all the files
+For files that have already been added to index but modified after, you could do without re-adding them, just git commit -m will do (or git commit -a -m "for multiple modified files at once".
 
 finally use git push to push it to central repo
 
@@ -46,3 +47,7 @@ to create new branch: git branch branchName
 
 to move to another branch: git checkout nameOfBranchYouWannaMoveTo
 (checks out from the branch you were on and moves to another branch).
+
+Merging:
+
+files created in another branch would not show up on the masters branch, so if I wanna merge it with the master branch I would have to: go to the destination branch (Master) then...git merge branchYouWannaMergeWith
